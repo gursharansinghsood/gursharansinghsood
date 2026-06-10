@@ -1,112 +1,104 @@
-<div align="center">
+# 👋 Gursharan Singh
 
-# 👋 Hi, I'm Gursharan Singh
-
-### 🚀 MERN Stack Developer
-
-Building scalable full-stack web applications and documenting my journey through **300+ Coding Practices**.
-
-<br>
-
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;React+%2B+Node+%2B+MongoDB;Building+Production+Ready+Apps" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 💻 Building full-stack web applications using the MERN Stack
-* 📚 Currently documenting **300+ Coding Practices**
-* 🌱 Learning advanced backend architecture and scalable application development
-* 🎯 Focused on becoming a production-ready Full-Stack Developer
-* 🔍 Passionate about problem-solving and continuous learning
+MERN Stack Developer focused on building scalable full-stack web applications.
+
+- 🚀 Full-stack MERN projects experience  
+- 🔐 JWT Authentication + RBAC systems  
+- ⚙️ REST API development  
+- 🍃 MongoDB schema design  
+- 🌐 Deployment using Vercel & Render  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🚀 Skills Overview
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7)
-
-### Other
-
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens\&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4A90E2)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| Frontend | ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| Backend | ![Node](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) |
+| Database | ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge) |
+| Auth | JWT · RBAC |
+| Tools | Git · GitHub · Postman · VS Code |
+| Deployment | Vercel · Render |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
-### 💼 Job Seekers Portal
+### 🌐 Job Seekers Portal (Full Stack MERN)
 
-A full-stack job portal featuring JWT Authentication, Role-Based Access Control (RBAC), recruiter and job seeker workflows, job applications, and RESTful APIs.
+🔗 Live: https://job-seeker-prince.vercel.app  
+💻 GitHub: https://github.com/gursharansinghsood/Job-Seeker  
 
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
-
----
-
-### 📚 300 Coding Practices
-
-A structured repository containing **300 coding practices** covering Web Fundamentals, React.js, Node.js, MongoDB, and Full MERN Stack development.
-
-**Focus Areas**
-
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB`
+**Key Features:**
+- 🔐 JWT Authentication  
+- 👥 Role-Based Access Control  
+- 🧾 15+ REST APIs  
+- 📊 Job application tracking system  
+- 🌐 Deployed on Vercel + Render  
 
 ---
 
-## 🎯 Current Focus
+## 💼 Internship Experience
 
-* 🚀 Building **300+ Coding Practices**
-* ⚛️ Strengthening React.js expertise
-* 🚂 Developing scalable backend APIs
-* 🍃 Improving MongoDB database design
-* 🏗️ Building production-ready MERN applications
+**MERN Stack Developer Intern**  
+Novem Controls, Mohali | Jan 2026 – Jun 2026  
 
----
-
-## 📫 Connect With Me
-
-* GitHub: github.com/gursharansinghsood
-* Email: [gursharansinghsood@gmail.com](mailto:gursharansinghsood@gmail.com)
+- Built MERN full-stack applications  
+- Developed secure authentication systems  
+- Designed REST APIs  
+- Worked on deployment & debugging  
 
 ---
 
-<div align="center">
+## 🎓 Education
 
-### 💡 Always Learning. Always Building.
+| Qualification | Institute | Year | Details |
+|--------------|----------|------|--------|
+| B.Tech CSE | HPTU | 2022–2026 | CGPA: 7.0 / 10 |
+| 12th CBSE | MIA DAV Public School | 2022 | Science Stream |
+| 10th CBSE | MIA DAV Public School | 2020 | Basic Education |
 
-</div>
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|---------|------|
+| Hindi | Native |
+| Punjabi | Native |
+| English | Professional |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gursharansinghsood&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharansinghsood&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Objective
+
+To become a professional Full-Stack Developer and build scalable real-world applications.
+
+---
+
+## 💡 Quote
+
+> “Consistency + Clean Code = Professional Developer”
