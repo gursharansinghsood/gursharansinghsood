@@ -47,6 +47,18 @@ MERN Stack Developer focused on building scalable full-stack web applications.
 - 📊 Job application tracking system  
 - 🌐 Deployed on Vercel + Render  
 
+### 💻 300+ Coding Practice (In Progress)
+
+🔗 GitHub: https://github.com/gursharansinghsood/300-Coding-Practices
+
+**Key Features:**
+
+- 🧠 Working on 300+ coding problems
+- ⚙️ Covers DSA, JavaScript, and MERN concepts
+- 📈 Focused on problem-solving & logic building
+- 🧩 Daily practice with structured folders
+- 🚀 Goal: Strong algorithm + full-stack mastery
+
 ---
 
 ## 💼 Internship Experience
@@ -78,18 +90,6 @@ Novem Controls, Mohali | Jan 2026 – Jun 2026
 | Hindi | Native |
 | Punjabi | Native |
 | English | Professional |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gursharansinghsood&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharansinghsood&theme=tokyonight" />
-</p>
 
 ---
 
